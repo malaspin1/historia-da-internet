@@ -89,6 +89,8 @@ main {
     border-radius: 0 0 30px 30px;
 }
 
+main>p {text-indent: 30px}
+
 footer {
     background-color: var(--corrodape);
     color: #FFFFFF;
